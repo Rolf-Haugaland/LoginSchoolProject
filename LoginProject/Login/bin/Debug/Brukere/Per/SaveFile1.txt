@@ -1,0 +1,9 @@
+Vises Til Spiller: BILLION,
+Ord ? gjette: BILLION,
+Vinn teller: 3,
+Tap teller: 1,
+Totalt gjettede ord: 0,
+Bokst. som allerede er gjettet: NDCMBLAKOI,
+Korrekte gjett: 0,
+Feil gjett: 0,
+Knapper Enabled/Disabled: Disabled
